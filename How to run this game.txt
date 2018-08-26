@@ -1,0 +1,4 @@
+To compile the code : gcc -o game myGame.c -lcurses
+To run the code     : ./game
+
+   
